@@ -1,8 +1,8 @@
 /*
  * ELEC 374 - Digital Systems Engineering
  * Machine Problem 1 - Part 1: Device Query
- * Student Name: [YOUR NAME]
- * Student ID: [YOUR ID]
+ * Student Name: Sid Prabaharan
+ * Student ID: 20351244
  *
  */
 
